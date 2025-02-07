@@ -18,14 +18,15 @@ const projects = [
         github: 'https://github.com/AlexZorrilla99/Music-Website',
         website: '',
       }, 
-      /*
+      
       {
-        title: 'Deadplant (Strategy Making Website)',
-        image: '/assets/images/deadplant2.png', // Public path to the image
-        description: 'This project is a comprehensive strategy platform for the game Deadlock...',
-        github: 'https://github.com/yourproject1',
-        website: 'https://project1.com',
+        title: 'S&P500 vs Crypto Market Analysis',
+        image: 'btc.png', // Public path to the image
+        description: 'Comparing S&P500 to Cryptos',
+        github: 'https://github.com/AlexZorrilla99/MarketAnalysis',
+        website: '',
       },
+      /*
       {
         title: 'Deadplant (Strategy Making Website)',
         image: '/assets/images/deadplant2.png', // Public path to the image
