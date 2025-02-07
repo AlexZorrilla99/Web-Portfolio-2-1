@@ -202,7 +202,7 @@ html, body{
     
    /* Projects Section */
   .projects {
-      padding: 100px 20px;
+      padding: 50px 20px;
       text-align: center;
       background-color: #dcdcdc;
       background: linear-gradient(135deg, #726f6fde, #e0e0e0);
